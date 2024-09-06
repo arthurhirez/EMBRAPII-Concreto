@@ -1,0 +1,5 @@
+,Best Params,MAE,MSE,R2
+Linear Regression,{},2.279535466482403,8.691872558109216,0.8153630855703996
+Decision Tree Regressor,"{'max_depth': 20, 'min_samples_split': 5}",1.7812660294399854,6.990260005272785,0.8515095533435925
+Random Forest Regressor,"{'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 200}",1.6297826454995241,5.048581301379383,0.8927556211274638
+Gradient Boosting Regressor,"{'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 200}",1.7140408994468663,5.362280333277962,0.8860918762414128
