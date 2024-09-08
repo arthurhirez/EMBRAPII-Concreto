@@ -1,7 +1,0 @@
-,Accuracy,Precision,Recall,F1 Score
-Logistic Regression,1.0,1.0,1.0,1.0
-Support Vector Classifier,1.0,1.0,1.0,1.0
-Decision Tree Classifier,1.0,1.0,1.0,1.0
-Random Forest Classifier,1.0,1.0,1.0,1.0
-Gradient Boosting Classifier,1.0,1.0,1.0,1.0
-K-Nearest Neighbors,1.0,1.0,1.0,1.0
